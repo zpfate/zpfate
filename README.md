@@ -9,7 +9,7 @@
 |[简书](https://www.jianshu.com/u/eb3b6d308aad)|
 
 
-![微信公众号](https://cdn.jsdelivr.net/gh/ZpFate/ImageService@master/uPic/img_2020_10_28_15_47_49.png "微信公众号")
+![image-20201028155415176](https://cdn.jsdelivr.net/gh/ZpFate/ImageService@master/uPic/img_2020_10_28_15_54_15.png)
 
 
 <!--
