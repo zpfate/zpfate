@@ -2,10 +2,10 @@
 
 
 <a href="https://github.com/zpfate">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZpFate" height="230"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zpfate" height="230"/>
 </a>
 <a href="https://github.com/zpfate">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZpFate&show_icons=true" height="230"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zpfate&show_icons=true" height="230"/>
 </a>
 
 
@@ -16,7 +16,7 @@
 |[简书](https://www.jianshu.com/u/eb3b6d308aad)|
 
 
-![公众号 浮生zZZ](https://cdn.jsdelivr.net/gh/ZpFate/ImageService@master/uPic/img_2020_10_28_15_54_15.png "微信公众号")
+![公众号 浮生zZZ](https://cdn.jsdelivr.net/gh/zpfate/ImageService@master/uPic/img_2020_10_28_15_54_15.png "微信公众号")
 
 
 <!--
