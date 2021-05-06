@@ -1,6 +1,13 @@
 ### Hi I'm zpfate （浮生zZZ）👋
 
-目前是一名iOS开发,正在努力提升自己, 学习过程中有所得都会分享出来，下面是我的博客地址:
+
+<a href="https://github.com/zpfate">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zpfate" height="230"/>
+</a>
+<a href="https://github.com/zpfate">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zpfate&show_icons=true" height="230"/>
+</a>
+
 
 |博客地址|
 | :----: |
