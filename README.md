@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/zpfate">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zpfate&show_icons=true&theme=dracula" height="230"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zpfate&show_icons=true" height="230"/>
 </a>
 <a href="https://github.com/zpfate">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zpfate&show_icons=true&theme=dracula" height="230"/>
